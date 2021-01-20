@@ -42,9 +42,7 @@
     { "Hypotheek": "Triodos Bank Hypotheek Energielabel C", "NHG": 1.2, "60%": 1.2, "80%": 1.6, "100%": 1.8 },
     { "Hypotheek": "ING Dagrente Hypotheek", "NHG": 1.24, "60%": 1.38, "80%": 1.51, "100%": 1.77 },
     { "Hypotheek": "Rabobank Hypotheek Plusvoorwaarden", "NHG": 1.27, "60%": 1.27, "80%": 1.47, "100%": 1.67 }
-  ]
-},
-{
+  ],
   "20 jaar": [
     { "Hypotheek": "Lloyds Bank Hypotheek", "NHG": 1.1, "60%": 1.3, "80%": 1.5, "100%": 0.0 },
     { "Hypotheek": "ABN AMRO Budget Hypotheek Duurzaam", "NHG": 1.19, "60%": 1.38, "80%": 1.54, "100%": 1.78 },
