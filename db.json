@@ -1,3 +1,4 @@
+[
   {
     "1_jaar": [
       { "id": 1, "Hypotheek": "ASR WelThuis hypotheek", "NHG": 0.7, "60%": 0.91, "80%": 0.92, "100%": 1.2 },
@@ -98,4 +99,4 @@
       { "id": 21, "Hypotheek": "Florius Profijt Drie + Drie Hypotheek", "NHG": 1.7, "60%": 1.89, "80%": 2.07, "100%": 2.26 }
     ]
   }
-
+]
