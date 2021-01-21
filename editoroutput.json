@@ -1,6 +1,6 @@
 [
   {
-    "1 jaar": [
+    "1_jaar": [
       { "id": 1, "Hypotheek": "ASR WelThuis hypotheek", "NHG": 0.7, "60%": 0.91, "80%": 0.92, "100%": 1.2 },
       { "id": 2, "Hypotheek": "Hypotrust Vrij Leven Hypotheek", "NHG": 0.8, "60%": 0.9, "80%": 1, "100%": 0 },
       { "id": 3, "Hypotheek": "Lloyds Bank Hypotheek", "NHG": 0.8, "60%": 0.9, "80%": 1, "100%": 0 },
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "10 jaar": [
+    "10_jaar": [
       { "id": 1, "Hypotheek": "Lloyds Bank Hypotheek", "NHG": 0.9, "60%": 1, "80%": 1.2, "100%": 0 },
       { "id": 2, "Hypotheek": "ABN AMRO Budget Hypotheek Duurzaam", "NHG": 0.94, "60%": 1.09, "80%": 1.24, "100%": 1.42 },
       { "id": 3, "Hypotheek": "Hypotrust Vrij Leven Hypotheek", "NHG": 0.9, "60%": 1, "80%": 1.2, "100%": 0 },
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "20 jaar": [
+    "20_jaar": [
       { "id": 1, "Hypotheek": "Lloyds Bank Hypotheek", "NHG": 1.1, "60%": 1.3, "80%": 1.5, "100%": 0 },
       { "id": 2, "Hypotheek": "ABN AMRO Budget Hypotheek Duurzaam", "NHG": 1.19, "60%": 1.38, "80%": 1.54, "100%": 1.78 },
       { "id": 3, "Hypotheek": "HollandWoont Hypotheek", "NHG": 1.19, "60%": 0, "80%": 0, "100%": 0 },
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "30 jaar": [
+    "30_jaar": [
       { "id": 1, "Hypotheek": "Lloyds Bank Hypotheek", "NHG": 1.5, "60%": 1.7, "80%": 1.9, "100%": 0 },
       { "id": 2, "Hypotheek": "HollandWoont Hypotheek", "NHG": 1.54, "60%": 0, "80%": 0, "100%": 0 },
       { "id": 3, "Hypotheek": "ASR WelThuis hypotheek", "NHG": 1.55, "60%": 1.86, "80%": 1.87, "100%": 2.15 },

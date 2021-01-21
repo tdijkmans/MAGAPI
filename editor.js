@@ -1,6 +1,6 @@
 const mortgageData = [
   {
-    '1 jaar': [
+    '1_jaar': [
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 0.7, '60%': 0.91, '80%': 0.92, '100%': 1.2 },
       { Hypotheek: 'Hypotrust Vrij Leven Hypotheek', NHG: 0.8, '60%': 0.9, '80%': 1.0, '100%': 0.0 },
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 0.8, '60%': 0.9, '80%': 1.0, '100%': 0.0 },
@@ -50,7 +50,7 @@ const mortgageData = [
     ],
   },
   {
-    '2 jaar': [
+    '2_jaar': [
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 0.7, '60%': 0.96, '80%': 0.97, '100%': 1.25 },
       { Hypotheek: 'Hypotrust Vrij Leven Hypotheek', NHG: 0.8, '60%': 0.9, '80%': 1.0, '100%': 0.0 },
       { Hypotheek: 'Obvion Woon Hypotheek', NHG: 0.86, '60%': 1.01, '80%': 1.16, '100%': 1.41 },
@@ -87,7 +87,7 @@ const mortgageData = [
     ],
   },
   {
-    '5 jaar': [
+    '5_jaar': [
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 0.75, '60%': 1.06, '80%': 1.07, '100%': 1.35 },
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 0.8, '60%': 0.9, '80%': 1.1, '100%': 0.0 },
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 0.92, '60%': 1.04, '80%': 1.22, '100%': 1.4 },
@@ -142,7 +142,7 @@ const mortgageData = [
     ],
   },
   {
-    '6 jaar': [
+    '6_jaar': [
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 0.85, '60%': 1.11, '80%': 1.12, '100%': 1.4 },
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 0.8, '60%': 0.9, '80%': 1.1, '100%': 0.0 },
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 0.92, '60%': 1.04, '80%': 1.22, '100%': 1.4 },
@@ -184,7 +184,7 @@ const mortgageData = [
     ],
   },
   {
-    '7 jaar': [
+    '7_jaar': [
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 0.9, '60%': 1.16, '80%': 1.17, '100%': 1.45 },
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 0.93, '60%': 1.05, '80%': 1.23, '100%': 1.41 },
       { Hypotheek: 'BLG Wonen Hypotheek', NHG: 0.96, '60%': 1.06, '80%': 1.21, '100%': 1.48 },
@@ -225,7 +225,7 @@ const mortgageData = [
     ],
   },
   {
-    '10 jaar': [
+    '10_jaar': [
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 0.9, '60%': 1.0, '80%': 1.2, '100%': 0.0 },
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 0.94, '60%': 1.09, '80%': 1.24, '100%': 1.42 },
       { Hypotheek: 'Hypotrust Vrij Leven Hypotheek', NHG: 0.9, '60%': 1.0, '80%': 1.2, '100%': 0.0 },
@@ -280,7 +280,7 @@ const mortgageData = [
     ],
   },
   {
-    '15 jaar': [
+    '15_jaar': [
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 1.11, '60%': 1.29, '80%': 1.44, '100%': 1.69 },
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 1.1, '60%': 1.3, '80%': 1.4, '100%': 0.0 },
       { Hypotheek: 'Allianz Hypotheek', NHG: 1.17, '60%': 1.47, '80%': 1.59, '100%': 2.14 },
@@ -334,7 +334,7 @@ const mortgageData = [
     ],
   },
   {
-    '20 jaar': [
+    '20_jaar': [
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 1.1, '60%': 1.3, '80%': 1.5, '100%': 0.0 },
       { Hypotheek: 'ABN AMRO Budget Hypotheek Duurzaam', NHG: 1.19, '60%': 1.38, '80%': 1.54, '100%': 1.78 },
       { Hypotheek: 'HollandWoont Hypotheek', NHG: 1.19, '60%': 0.0, '80%': 0.0, '100%': 0.0 },
@@ -388,7 +388,7 @@ const mortgageData = [
     ],
   },
   {
-    '25 jaar': [
+    '25_jaar': [
       { Hypotheek: 'Allianz Hypotheek', NHG: 1.42, '60%': 1.65, '80%': 1.79, '100%': 2.34 },
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 1.45, '60%': 1.81, '80%': 1.82, '100%': 2.1 },
       { Hypotheek: 'Hypotrust Vrij Leven Hypotheek', NHG: 1.4, '60%': 1.6, '80%': 1.7, '100%': 0.0 },
@@ -415,7 +415,7 @@ const mortgageData = [
     ],
   },
   {
-    '30 jaar': [
+    '30_jaar': [
       { Hypotheek: 'Lloyds Bank Hypotheek', NHG: 1.5, '60%': 1.7, '80%': 1.9, '100%': 0.0 },
       { Hypotheek: 'HollandWoont Hypotheek', NHG: 1.54, '60%': 0.0, '80%': 0.0, '100%': 0.0 },
       { Hypotheek: 'ASR WelThuis hypotheek', NHG: 1.55, '60%': 1.86, '80%': 1.87, '100%': 2.15 },
@@ -463,8 +463,8 @@ const mortgageData = [
 ];
 
 let fs = require('fs');
-const interestPeriods = ['1 jaar', '2 jaar', '5 jaar', '6 jaar', '7 jaar', '10 jaar', '15 jaar', '20 jaar', '25 jaar', '30 jaar'];
-const selectedPeriods = ['1 jaar', '10 jaar', '20 jaar', '30 jaar'];
+const interestPeriods = ['1_jaar', '2_jaar', '5_jaar', '6_jaar', '7_jaar', '10_jaar', '15_jaar', '20_jaar', '25_jaar', '30_jaar'];
+const selectedPeriods = ['1_jaar', '10_jaar', '20_jaar', '30_jaar'];
 
 let perPeriodresults = [];
 let allResults = [];
