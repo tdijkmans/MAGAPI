@@ -467,7 +467,7 @@ const interestPeriods = ['1_jaar', '2_jaar', '5_jaar', '6_jaar', '7_jaar', '10_j
 const selectedPeriods = ['1_jaar', '10_jaar', '20_jaar', '30_jaar'];
 
 let perPeriodresults = [];
-let allResults = [];
+let allResults = {};
 const indexedData = mortgageData.map((mortgageObject, mIndex) => {
   Object.keys(mortgageObject).map((interestPeriod) => {
     mortgageObject[interestPeriod].map((h, index) => {
@@ -480,7 +480,7 @@ const indexedData = mortgageData.map((mortgageObject, mIndex) => {
     let mortageDataObject = {};
     if (selectedPeriods.includes(interestPeriod)) {
       mortageDataObject[interestPeriod] = perPeriodresults;
-      allResults.push(mortageDataObject);
+      allResults[interestPeriod] = perPeriodresults;
     }
 
     perPeriodresults = [];
