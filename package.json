@@ -1,0 +1,22 @@
+{
+  "name": "magapi",
+  "version": "1.0.0",
+  "description": "https://my-json-server.typicode.com/tdijkmans/MAGAPI",
+  "main": "call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdijkmans/MAGAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdijkmans/MAGAPI/issues"
+  },
+  "homepage": "https://github.com/tdijkmans/MAGAPI#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
